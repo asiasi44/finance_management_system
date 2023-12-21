@@ -1,0 +1,19 @@
+{
+  "name": "server_asim",
+  "version": "1.0.0",
+  "description": "Server made by asim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "finance_management_system"
+  },
+  "keywords": [
+    "finance",
+    "asim"
+  ],
+  "author": "Asim Poudel",
+  "license": "ISC"
+}
